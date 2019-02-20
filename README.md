@@ -1,2 +1,4 @@
-# Oreco_test
-Test_Docker
+docker-firefox
+==============
+
+Firefox over Docker via VNC
